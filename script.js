@@ -7,4 +7,3 @@ const paths=["Cloud" ,"Desktop" ,"Video Sport" ,"Mobile" ,"Web"]
 			li.textContent=`${paths} development`;
 			list.appendChild(li);
 		});
-</script>
